@@ -24,7 +24,7 @@ For this purpose Microsoft Visual Studio with .Net extenction has been used
 ## Use Case Diagram
 ![Image](usecase.png)
 ## Class Diagram
-![Image](class%20diagram.png)
+![Image](classdiagram.png)
 ## Sequence Diagrams
 ![Image](sequence1.png)
 ![Image](sequence2.png)
